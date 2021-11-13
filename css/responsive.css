@@ -1,0 +1,68 @@
+/* 
+=====================
+For mobile phones: 
+=====================
+*/
+
+@media only screen and (max-width: 768px) {
+    /* Top Banner */
+    .top-banner .mt-4 {
+        margin-top: 0!important;
+    }
+    .top-banner p {
+        padding-bottom: 15px;
+    }
+    .top-banner {
+        padding: 11rem 0 8rem!important;
+    }
+    /* About Section */
+    .about-section .pe-5 {
+        padding-right: 0.7rem!important;
+    }
+    /* Call to action */
+    .cta-section h1 {
+        font-size: 1.8rem!important;
+    }
+    /* Explore Food Section */
+    .explore-section .card-group h2 {
+        line-height: 1!important;
+        font-size: 1.5rem!important;
+    }
+    .card-group:nth-child(1) {
+        margin-top: 16px!important;
+    }
+    /* Testimonial Section */
+    .testimonial-section .carousel-item p {
+        padding: 0!important;
+        font-size: 1rem!important;
+    }
+    /* FAQ section */
+    .faq-content h2 {
+        font-size: 1.2rem!important;
+    }
+    /* Parralax */
+    .parralax-section h2 {
+        width: 100%!important;
+    }
+    .parralax-section button {
+        width: 35%!important;
+        margin-left: 35%!important;
+        margin-top: 20px;
+    }
+    /* Newsletter Section */
+    .newsletter-section {
+        padding-inline: 0!important;
+    }
+    /* Custom CSS */
+    h1 {
+        font-size: 2rem!important;
+        margin-bottom: 2rem!important;
+    }
+    h2 {
+        font-size: 1.8rem!important;
+    }
+    .wrapper {
+        padding-top: 5rem!important;
+        padding-bottom: 5rem!important;
+    }
+}
